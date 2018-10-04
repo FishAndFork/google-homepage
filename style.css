@@ -1,0 +1,54 @@
+.top-navbar {
+    margin: 20px auto;
+    text-align: right;
+}
+
+.main-part {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 90px;
+    width: 50%;
+    text-align: center;
+}
+
+.main-part img {
+    margin: 20px auto;
+}
+
+.main-part form, .main-part form input {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 632px;
+    height: 44px;
+    border: transparent;
+    box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.19)
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    padding: 8px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(0,0,0,0.87);
+}
+
+.country-bar {
+    position: absolute;
+    bottom: 40px;
+}
+
+.bottom-navbar  {
+    position: absolute;
+    bottom: 0;
+    margin: 10px auto;
+}
